@@ -1,7 +1,5 @@
 Greetings!
 
-📚 Currently immersed in personal studies, leading to limited availability.
-
 🌐 French developer passionate about HTML, CSS, and JS.
 
 🎨 Crafting captivating web designs and creating fully-functional websites.
