@@ -1,11 +1,10 @@
-Greetings!
+:)
 
-🌐 French developer passionate about HTML, CSS, and JS.
+🌐 Dev. français d'HTML, CSS, JS, Python, Java, React
 
-🎨 Crafting captivating web designs and creating fully-functional websites.
+🎨 Concepteur de design et d'applications web / mobiles
 
-🚀 Mod developer for the thrilling space-shooter game Starblast.io.
+📧 Contact sur Discord: naflouille
 
-📧 Contact me on Discord: naflouille
 
-Excited to connect and collaborate! Let's build amazing things together!
+N'hésites pas à proposer des projets ou à demander de l'aide !
