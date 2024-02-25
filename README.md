@@ -1,10 +1,6 @@
+Elias, Jinkx fan ☄️ 
+
+frontend (React / UI / UX)
+a lil bit of algorithm and math
+
 :)
-
-🌐 Dev. français d'HTML, CSS, JS, Python, Java, React
-
-🎨 Concepteur de design et d'applications web / mobiles
-
-📧 Contact sur Discord: naflouille
-
-
-N'hésites pas à proposer des projets ou à demander de l'aide !
