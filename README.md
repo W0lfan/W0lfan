@@ -1,4 +1,4 @@
-![Naflows Logo]([http://url/to/img.png](https://public.naflows.com/assets/corporate/naflows_full_logotype.png))
+![Naflows Logo]([https://public.naflows.com/assets/corporate/naflows_full_logotype.png]))
 
 
 Lead developer of [Naflows](https://naflows.com)
